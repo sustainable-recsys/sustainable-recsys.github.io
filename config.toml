@@ -6,7 +6,7 @@
 #
 # The actual configuration files are stored in the `config/_default/` folder.
 
-#baseURL = 'https://sustainable-recsys.github.io/'
+#baseURL = 'https://sustainable-recsys.github.io/umap25/'
 #languageCode = 'en-us'
 #title = 'Human-Centered and Sustainable Recommender Systems'
 #theme = 'Academic'

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Human-Centered and Sustainable Recommender Systems # Website name
-baseurl: 'https://sustainable-recsys.github.io/' # Website URL
+baseurl: 'https://sustainable-recsys.github.io/umap25/' # Website URL
 relURL:  '/umap25/'
 relLangURL: '/umap25/'
 copyright: '' # Footer text, e.g. '© {year} Me'
