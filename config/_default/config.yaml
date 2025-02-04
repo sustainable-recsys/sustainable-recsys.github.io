@@ -5,8 +5,8 @@
 
 title: Human-Centered and Sustainable Recommender Systems # Website name
 baseurl: 'https://sustainable-recsys.github.io/' # Website URL
-# relURL:  '/rsss2024/'
-# relLangURL: '/rsss2024/'
+relURL:  ''
+relLangURL: ''
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 
