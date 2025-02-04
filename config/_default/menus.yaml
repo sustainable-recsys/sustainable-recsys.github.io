@@ -10,9 +10,30 @@ main:
   - name: Info
     url: '#info'
     weight: 20
+  # - name: Call for Lecturers
+  #   url: '#cfl'
+  #   weight: 30
+  - name: Lectures
+    url: '#lectures'
+    weight: 30
+  - name: Program
+    url: '#program'
+    weight: 40
+  - name: Social Events
+    url: '#social_events'
+    weight: 50
+  - name: Registration
+    url: '#registration'
+    weight: 60
+  - name: Venue
+    url: '#venue'
+    weight: 70
   - name: Organizers
     url: '#organizers'
-    weight: 30
+    weight: 80
+  - name: Sponsors
+    url: '#sponsors'
+    weight: 90
 
   # - name: RecSys Summer School 2023
   #   url: https://acmrecsys.github.io/rsss2023/

@@ -6,7 +6,7 @@
 #
 # The actual configuration files are stored in the `config/_default/` folder.
 
-#baseURL = 'https://sustainable-recsys.github.io/umap25/'
+#baseURL = 'https://acmrecsys.github.io/rsss2024/'
 #languageCode = 'en-us'
-#title = 'Human-Centered and Sustainable Recommender Systems'
+#title = 'ACM Europe School on Recommender Systems 2024'
 #theme = 'Academic'

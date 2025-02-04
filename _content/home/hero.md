@@ -3,14 +3,14 @@
 widget: hero
 headless: true
 weight: 10
-title: ACM Europe School on Recommender Systems 2024
+title: Human-Centered and Sustainable Recommender Systems
 hero_media: 
 cta:
   label: #'**Read more**'
-  url: #http://acmrecsys.github.io/rsss2024
+  url: #http://sustainable-recsys.github.io/umap25
 cta_alt:
   label: 
-  url: /rsss2024
+  url: /umap25
 cta_note:
   label: 
 design:
@@ -24,8 +24,5 @@ design:
 advanced:
   css_class: fullscreen
 ---
-
-**Supported by ACM RecSys, SIGCHI, ACM Europe, EURAI, and University of Cagliari**  
-October 8-12, 2024, Bari, Italy
 
 <!-- [logo_ovs](/assets/media/logo_OVS.svg "logo ovs") -->
